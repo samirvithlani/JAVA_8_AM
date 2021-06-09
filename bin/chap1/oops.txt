@@ -1,0 +1,5 @@
+INHERITANCE
+POLYMORPHISAM  -> overloading,overriding
+constructor
+abstractoin   
+encapsulation   --> class   object   data hiding
